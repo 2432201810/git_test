@@ -2,9 +2,9 @@ package com.itmayiedu;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("HelloWorld");
-        System.out.println("lige");
-        String li="ge";
+        System.out.println("HelloWorld123");
+        System.out.println("lige456");
+        String li="ge789";
         System.out.println(li);
     }
 }
